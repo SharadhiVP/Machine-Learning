@@ -29,3 +29,13 @@ This project focuses on building a Convolutional Neural Network (CNN) using eith
 
 4. Recommendation System
 The final task is to build a recommendation system using collaborative filtering or matrix factorization techniques such as Singular Value Decomposition (SVD). Using a dataset like MovieLens or an e-commerce dataset, you will predict user preferences and generate personalized recommendations. The notebook should include data processing, similarity computations or factorization, model training, and evaluation using metrics like RMSE or precision@k.
+
+
+OUTPUT:
+
+<img width="726" height="782" alt="Image" src="https://github.com/user-attachments/assets/66d455de-0b6a-4ccf-8cc7-f28b507e86d4" />
+<img width="1093" height="726" alt="Image" src="https://github.com/user-attachments/assets/f5735fb8-17e2-4d24-b1f5-11ef15e8c45a" />
+<img width="752" height="512" alt="Image" src="https://github.com/user-attachments/assets/18f50a28-c7b0-4918-8a97-973a887698c7" />
+<img width="630" height="510" alt="Image" src="https://github.com/user-attachments/assets/4f682c85-b6bf-4578-9731-1801f79b0385" />
+<img width="703" height="472" alt="Image" src="https://github.com/user-attachments/assets/66dcb77a-da0f-4c5c-a12a-0f4d66514753" />
+<img width="687" height="450" alt="Image" src="https://github.com/user-attachments/assets/1d5f95c0-648f-47c9-91c2-6984174d70a6" />
